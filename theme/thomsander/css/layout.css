@@ -1,0 +1,24 @@
+.col1, .col2, .col3, .cols { float:left;}
+
+.col1{ width:280px;}
+.col2{ width:209px;}
+
+.cols{ width:98px;}
+
+#page_Portfolio .col1{ width:135px;}
+#page_Portfolio .col2{ width:425px;}
+
+
+.pagetitle {
+	font-family: "微软雅黑";
+	font-size: 26px;
+	font-weight: bold;
+	color: #FFF;
+}
+.pageh1 {
+	font-family: "微软雅黑";
+	font-size: 18px;
+}
+.wjpic{
+text-align:center;
+}

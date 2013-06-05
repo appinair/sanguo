@@ -1,0 +1,14 @@
+---
+applications:
+  .:
+    name: 3kingdom
+    framework:
+      name: php
+      info:
+        mem: 128M
+        description: PHP Application
+        exec: 
+    infra: aws
+    url: ${name}.${target-base}
+    mem: 512M
+    instances: 1

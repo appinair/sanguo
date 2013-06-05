@@ -1,0 +1,12 @@
+CACHE MANIFEST
+# 2012-09-06 v1.0.2
+/data/wjdata/Total.xml
+theme/thomsander/images/bg_img1.jpg
+theme/thomsander/images/bg_img2.jpg
+theme/thomsander/images/bg_img3.jpg
+
+NETWORK:
+.
+
+FALLBACK:
+/html5/ /404.html
